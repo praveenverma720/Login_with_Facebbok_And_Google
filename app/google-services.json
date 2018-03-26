@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "135607471595",
+    "firebase_url": "https://goplay-c788c.firebaseio.com",
+    "project_id": "goplay-c788c",
+    "storage_bucket": "goplay-c788c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135607471595:android:2cef98f129ffb5d3",
+        "android_client_info": {
+          "package_name": "com.praveen.pilani.goplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135607471595-f057tm2e509od3734dkh4njqeps4oh1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_9tJTIKQo3gYYncpwAWR5TPdc9RMwCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
